@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="cover" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22AFFB"/>
+      <stop offset="1" stop-color="#7A3CFF"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="64" height="64" rx="10" fill="url(#cover)"/>
+  <!-- Eighth-note glyph -->
+  <g fill="#FFFFFF">
+    <rect x="38" y="16" width="3.4" height="26" rx="1.7"/>
+    <path d="M41.4 16 q9 1.5 9 8 q-9 -3.5 -9 1.5 Z"/>
+    <ellipse cx="33" cy="42" rx="7.5" ry="6" transform="rotate(-18 33 42)"/>
+  </g>
+</svg>

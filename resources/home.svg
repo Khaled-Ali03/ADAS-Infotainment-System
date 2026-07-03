@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg height="800px" width="800px" version="1.2" baseProfile="tiny" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256" xml:space="preserve">
+  <defs>
+    <linearGradient id="gold" x1="40" y1="0" x2="216" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#C59B27"/>
+      <stop offset="50%" stop-color="#FCEECA"/>
+      <stop offset="100%" stop-color="#C59B27"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="166.7" y="6.1" width="32.6" height="100" fill="#C59B27" />
+
+  <path d="M 40.2,110 
+           L 40.2,255 
+           L 102.5,255 
+           L 102.5,173 
+           L 150.9,173 
+           L 150.9,255 
+           L 215.7,255 
+           L 215.7,110 
+           L 128.5,25 Z" 
+        fill="#C59B27" />
+
+  <path d="M 128.5,0.8 
+           L 2.3,113.7 
+           L 22.8,134.2 
+           L 40.2,118.5 
+           L 128.5,39.5 
+           L 215.7,119.6 
+           L 231.4,134.2 
+           L 251.9,113.7 Z" 
+        fill="#DA251D" />
+</svg>
